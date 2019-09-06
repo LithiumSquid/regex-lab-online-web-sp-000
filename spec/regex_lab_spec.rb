@@ -1,4 +1,5 @@
 require 'spec_helper'
+require_relative ../lib/regex_lab.rb"
 
 describe "Working with Regular expressions" do
   describe "#starts_with_a_vowel?" do
